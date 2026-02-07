@@ -135,8 +135,6 @@ Metrics used:
 
 ## Results
 
-### Training Curve
-
 ![img_2.png](img_2.png)
 
 * Training loss consistently decreased over time, showing that the model was effectively learning from the data.
