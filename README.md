@@ -137,7 +137,10 @@ Metrics used:
 
 ### Training Curve
 
-**Training/Validation Loss:**
 ![img_2.png](img_2.png)
+
+* Training loss consistently decreased over time, showing that the model was effectively learning from the data.
+* Validation accuracy and F1-score gradually improved from ~67% to ~72.9%, indicating better sentiment classification performance.
+* Performance stabilized after around 3,000 steps, with minor fluctuations in validation loss suggesting mild overfitting in later stages.
 
 ---
