@@ -1,4 +1,4 @@
-# Arabic Sentiment Analysis with BERT
+# Fine-tuning BERT for Arabic Sentiment Classification
 
 This project fine-tunes a pre-trained **BERT model** (`asafaya/bert-base-arabic`) on an Arabic sentiment dataset from Kaggle. It classifies reviews as **positive**, **neutral**, or **negative**.
 
